@@ -1,0 +1,5 @@
+#carousel { height: 330px; width: 420px; }
+#carousel .active { display: block; }
+#carousel li { display: none; position: absolute; top: 0; }
+
+.carouselBtn { display: block; }
